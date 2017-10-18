@@ -1,4 +1,3 @@
-require 'pry'
 def hopper
 	programmer_hash =
  		{
@@ -15,8 +14,6 @@ def hopper
           :languages => ["C"]
         }
      }
-
-binding.pry
 end
 
 def alan_kay_is_known_for
